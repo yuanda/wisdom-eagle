@@ -1,2 +1,2 @@
-# wisdom-eagle
+# wisdom-eagles
 A portfolio manager. 
