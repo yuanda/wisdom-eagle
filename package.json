@@ -1,7 +1,9 @@
 {
   "name": "fuse",
   "version": "1.2.2",
-  "dependencies": {},
+  "dependencies": {
+    "echarts": "^3.1.1"
+  },
   "scripts": {
     "test": "gulp test"
   },
