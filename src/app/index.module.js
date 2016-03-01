@@ -15,10 +15,10 @@
             'app.navigation',
 
             // Toolbar
-            //'app.toolbar',
+            'app.toolbar',
 
             // Quick panel
-            //'app.quick-panel',
+            'app.quick-panel',
 
             // Sample
             'app.sample'
