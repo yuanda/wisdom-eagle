@@ -184,6 +184,8 @@
             notes     : $resource(api.baseUrl + 'quick-panel/notes.json')
         };
 
+        api.getPMI = $resource('http://www.quandl.com/api/v1/datasets/ISM/MAN_PMI.csv?&trim_start=1948-01-01&trim_end=2100-12-31&sort_order=desc');
+
         return api;
     }
 
