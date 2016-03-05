@@ -1,8 +1,8 @@
 {
-  "name": "fuse",
-  "version": "1.2.2",
+  "name": "wisdom-eagles",
+  "version": "0.0.1",
   "dependencies": {
-    "echarts": "^3.1.1"
+    "echarts": "^3.1.2"
   },
   "scripts": {
     "test": "gulp test"
